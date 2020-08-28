@@ -1,5 +1,7 @@
 # guter-block
 
+![guter-block](https://user-images.githubusercontent.com/20719170/91578198-240e7380-e94a-11ea-8a73-e69be4f9a39d.jpg)
+
 ![GitHub](https://img.shields.io/github/license/sedeg/guter-block)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/sedeg/guter-block)
 ![GitHub top language](https://img.shields.io/github/languages/top/sedeg/guter-block)
